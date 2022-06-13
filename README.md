@@ -11,7 +11,7 @@ Data calculation and analysis libraries
 
 A function which breaks the time series into three components: trend, seasonality, and residuals
 
-5. from statsmodels.tsa.seasonal import seasonal_decompose
+5. statsmodels - seasonal_decompose
 
 Libraries for plotting graphs
 
